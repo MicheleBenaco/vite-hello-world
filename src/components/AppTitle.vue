@@ -7,7 +7,6 @@
 <script>
     export default {
         name:'AppTitle',
-        name: 'AppHero',
         data() {
             return {
                 titolo:'La mia prima app con Vite!'
